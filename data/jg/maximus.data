@@ -1,0 +1,6 @@
+classes = 1
+train = /home/jgoyette/data/maximus300/train.txt
+valid = /home/jgoyette/data/maximus300/test.txt
+names = /home/jgoyette/data/maximus300/maximus.names
+backup = /home/jgoyette/data/maximus300/backup/
+
